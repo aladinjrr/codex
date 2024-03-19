@@ -2,6 +2,7 @@
 
 # Roblox Performance Booster
 **Here's the Table for it.**
+
 ```local options = {
     PlayerShadows = {
         Enabled = true,
@@ -47,4 +48,4 @@
     DisableExplosions = {
         Enabled = true,
     },
-}``
+}```
