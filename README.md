@@ -49,4 +49,4 @@ local options = {
     DisableExplosions = {
         Enabled = true,
     },
-}```
+}
