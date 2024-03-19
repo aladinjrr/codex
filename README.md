@@ -3,7 +3,8 @@
 # Roblox Performance Booster
 **Here's the Table for it.**
 
-```local options = {
+```
+local options = {
     PlayerShadows = {
         Enabled = true,
     },
